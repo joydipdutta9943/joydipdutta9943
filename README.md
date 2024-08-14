@@ -1,7 +1,3 @@
-Here’s a template for a GitHub profile README that you can customize based on your specific skills, projects, and interests:
-
----
-
 # 👋 Hi there, I'm Joydip!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joydip-dutta-569428141/)

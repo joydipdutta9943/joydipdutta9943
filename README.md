@@ -1,9 +1,3 @@
-<h1 align="center">Joydip Dutta</h1>
-
-<h3 align="center">Software Development Engineer specializing in Artificial Intelligence & Scalable Systems</h3>
-
----
-
 ## 🚀 About Me  
 
 I am a passionate **Software Development Engineer** with over two years of experience building robust, scalable, and intelligent software solutions.  

@@ -31,18 +31,27 @@ I am a hands-on developer with a diverse skill set that bridges traditional soft
 
 **[🔗 GitHub Repo – Enhanced RAG System](https://github.com/joydipdutta9943/Enhanced-RAG-System)**  
 
-This repository showcases my proficiency in developing sophisticated, real-world AI applications.  
-The **Enhanced RAG System** is a powerful **chatbot** built to demonstrate the practical implementation of **Retrieval-Augmented Generation (RAG)**.  
+A **multi-modal Retrieval-Augmented Generation (RAG) system** with **Next.js 15 frontend**, **Node.js backend**, and **AI processing capabilities**.  
+This project demonstrates my expertise in building **production-ready AI pipelines** that combine full-stack engineering with cutting-edge LLM technologies.  
 
-It allows users to interact with and query information from PDF documents, providing **accurate and contextually relevant answers**.  
+### 🔹 Key Features
+- **Multi-modal Document Processing**: Upload PDFs, images, and text files with OCR support.  
+- **AI-Powered Search**: Semantic search with embeddings, AI-generated summaries, and relevance scoring.  
+- **Authentication & Authorization**: JWT-based authentication with role-based access control.  
+- **Real-time Features**: Live processing updates, notifications, and collaborative features.  
+- **Analytics**: Search analytics, usage metrics, and performance monitoring.  
 
 ### 🔹 Tech Highlights
-- **Backend:** Built with `Node.js` + `Express.js` to orchestrate the AI workflow.  
-- **Frontend:** Developed using `React.js`, delivering a smooth and intuitive chat interface.  
-- **LLM Integration:** Powered by `OpenAI` + `LangChain` for a robust and flexible AI pipeline.  
-- **Vector Search:** Uses `MongoDB` for efficient **vector searching**, ensuring fast retrieval of context.  
+- **Frontend**: Next.js 15 with App Router and modern React features.  
+- **Backend**: Node.js with Express, GraphQL, REST APIs, and WebSocket support.  
+- **Databases**: MongoDB with Prisma ORM + Redis for caching.  
+- **AI Integration**: Google Gemini API + Hugging Face models for embeddings and inference.  
+- **Runtime & Tooling**: Bun (v1.2.16+) for ultra-fast builds, Biome + Prettier for linting and formatting.  
+- **Deployment**: Docker & Docker Compose for containerized services.  
 
----
+### 🔹 Why It’s Cool
+
+This system integrates **multi-modal data ingestion, AI search, and real-time interactivity** into one seamless platform—making it ideal for **enterprise knowledge management, intelligent assistants, and document search platforms**.
 
 ## ✉️ Connect with Me  
 

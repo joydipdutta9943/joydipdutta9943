@@ -148,12 +148,6 @@ bun run dev
 
 ---
 
-## 📈 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joydipdutta9943&layout=compact&theme=radical)
-
----
-
 ## 💼 Professional Experience Highlights
 
 - 🔧 **3+ years** of professional software development experience

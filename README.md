@@ -45,7 +45,7 @@ I'm a passionate **Software Development Engineer** with over two years of experi
 
 ## 🧠 Featured Project: Enhanced RAG System  
 
-### **[📂 Enhanced RAG System](https://github.com/joydipdutta9943/Enhanced-RAG-System)**  
+### **[📂 RAG System](https://github.com/joydipdutta9943/RAG-System)**  
 
 A **production-ready, multi-modal Retrieval-Augmented Generation (RAG)** system that demonstrates enterprise-grade architecture combining **AI processing**, **real-time features**, and **scalable full-stack engineering**.
 
@@ -129,7 +129,7 @@ This system transforms how users interact with documents by combining **intellig
 
 ```bash
 # Clone and setup
-git clone https://github.com/joydipdutta9943/Enhanced-RAG-System.git
+git clone https://github.com/joydipdutta9943/RAG-System
 cd Enhanced-RAG-System
 
 # Install dependencies
@@ -156,7 +156,7 @@ bun run dev
 
 ## 💼 Professional Experience Highlights
 
-- 🔧 **2+ years** of professional software development experience
+- 🔧 **3+ years** of professional software development experience
 - 🏗️ Architected and deployed **scalable microservices** on AWS
 - 🤖 Built **AI-powered features** using LangChain, LLMs, and vector databases
 - 📊 Optimized **database performance** reducing query latency by 60%
